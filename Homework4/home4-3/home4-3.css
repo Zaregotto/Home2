@@ -1,0 +1,26 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    height: 95vh;
+    margin: 10px;
+}
+.a {
+    background-color: blue;
+    height: 35%;
+}
+.b {
+    background-color: #4d46ff;
+    width: 40%;
+}
+.wrapper2 {
+    column-gap: 20px;
+    display: flex;
+    height: 30%;
+}
+.footer {
+    background-color: blue;
+    height: 50%;
+}
+

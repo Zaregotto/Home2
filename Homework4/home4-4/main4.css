@@ -1,0 +1,38 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    height: 95vh;
+    margin: 10px;
+}
+
+.a {
+    background-color: aquamarine;
+    height: 15%;
+}
+
+.b {
+    background-color: brown;
+    height: 10%;
+}
+
+.mainContainer {
+    display: flex;
+    height: 100%;
+}
+
+main {
+    width: 70%;
+    background-color: blueviolet;
+}
+
+aside {
+    width: 30%;
+    background-color: aqua;
+}
+
+footer {
+    height: 15%;
+    background-color: tomato;
+}

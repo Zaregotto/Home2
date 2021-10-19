@@ -1,0 +1,48 @@
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    height: 95vh;
+    margin: 10px;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+
+#header {
+    background: #e7f5ff;
+    height: 15%;
+
+}
+
+.wrapper2 {
+    column-gap: 10px;
+    row-gap: 10px;
+    display: flex;
+    height: 100%;
+    background: #ff0002;
+}
+
+#menu {
+    background: #0300ff;
+    width: 30%;
+}
+
+#post1 {
+    width: 70%;
+
+}
+
+.post {
+    background: #ffb61e;
+    height: 50%;
+
+
+}
+footer {
+    height: 15%;
+    background-color: tomato;
+}
+
