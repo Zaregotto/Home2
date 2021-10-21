@@ -1,0 +1,29 @@
+.box {
+    width: 800px;
+    height: 900px;
+    text-align: center;
+}
+
+.a {
+    height: 180px;
+    width: 100%;
+}
+.back{
+    background-color: rgba(72, 63, 78, 0.66);
+
+}
+
+.flex {
+    display: flex;
+    height: 400px;
+    column-gap: 20px;
+}
+
+.b {width: 70%;
+}
+
+.c {
+    width: 30%;
+
+
+}

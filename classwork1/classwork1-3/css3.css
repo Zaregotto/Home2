@@ -1,0 +1,48 @@
+.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.back {
+    background-color: #0300ff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 700px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.wrapper1-2{
+    display: flex;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+.a {
+    display: flex;
+    height: 400px;
+    width: 50%;
+}
+
+
+.b {
+    height: 200px;
+}
+
+
+.wrapper3 {
+    column-gap: 20px;
+    row-gap: 20px;
+    display: flex;
+}
+
+.c {
+    height: 100px;
+    width: 33.33%;
+}
+

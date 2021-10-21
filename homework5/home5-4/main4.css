@@ -1,4 +1,3 @@
-
 .wrapper {
     display: flex;
     flex-direction: column;
@@ -6,41 +5,34 @@
     text-align: center;
     height: 95vh;
     margin: 10px;
-    column-gap: 10px;
-    row-gap: 10px;
 }
 
-
-#header {
-    background: #e7f5ff;
+.a {
+    background-color: aquamarine;
     height: 15%;
-
 }
 
-.wrapper2 {
+.b {
+    background-color: brown;
+    height: 10%;
+}
+
+.mainContainer {
     display: flex;
     height: 100%;
-    background: #ff0002;
 }
 
-#menu {
-    background: #0300ff;
-    width: 30%;
-}
-
-#post1 {
+main {
     width: 70%;
-
+    background-color: blueviolet;
 }
 
-.post {
-    background: #ffb61e;
-    height: 50%;
-
-
+aside {
+    width: 30%;
+    background-color: aqua;
 }
+
 footer {
     height: 15%;
     background-color: tomato;
 }
-
