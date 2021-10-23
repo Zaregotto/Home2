@@ -30,7 +30,16 @@
     .header_button {
         display: flex;
     }
+    .wrapper2 {
+        height: 100%;
+    }
 
+}
+
+@media screen and (max-width: 900px){
+    .wrapper2 {
+        height: 100%;
+    }
 }
 
 
