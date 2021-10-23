@@ -1,0 +1,37 @@
+@media screen and (max-width: 900px) {
+    .back {
+        background-color: #ff1176;
+    }
+    .header1 {
+        width: 100px;
+    }
+}
+
+@media screen and (max-width: 900px){
+    .back1{
+        background-color: #f26522;
+    }
+
+}
+
+@media screen and (min-width: 800px) and (max-width: 1000px) {
+    .c {
+        background-color: #3ab723;
+    }
+
+}
+
+@media screen and (max-width: 400px)
+{
+    .title {
+        display: none;
+    }
+
+    .header_button {
+        display: flex;
+    }
+
+}
+
+
+
