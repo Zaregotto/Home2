@@ -87,6 +87,7 @@
 .column {
     column-gap: 40px;
     row-gap: 20px;
+    flex-wrap: wrap;
 }
 .d-flex {
     display: flex;
@@ -120,8 +121,8 @@
     justify-content: space-around;
     width: 100%;
     background-color: blue;
-    height: 500px;
     column-gap: 50px;
+    flex-wrap: wrap;
 }
 .d {
     width: 200px;
@@ -159,7 +160,6 @@
 }
 
 .ls4 {
-    height: 1000px;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -168,7 +168,6 @@
 
 .lx5{
     flex-wrap: wrap;
-    height: 1000px;
     width: 1200px;
     display: flex;
     justify-content: center;
@@ -184,6 +183,68 @@
     align-self: center;
     margin: 10px;
 }
+
+.br5 {
+    margin: 10px;
+    margin-top: 20px;
+
+}
+
+.ik {
+    margin: 100px auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 80%;
+}
+
+.ki {
+    width: 40%;
+    height: 90%;
+    padding: 20px;
+
+}
+
+.ki *{
+    margin-top: 15px;
+}
+.button1 {
+    height: 40px;
+    display: flex;
+    cursor: pointer;
+    border-radius: 8px;
+    border: 1px #000000 solid;
+    width: 50%;
+}
+footer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons-container {
+    display: flex;
+    justify-content: space-between;
+    width: 114px;
+}
+
+.footer-icons{
+    margin: 50px auto 0 auto;
+    width: 30px;
+    height: 30px;
+    background-color: #e7f5ff;
+}
+.lol{
+    height: 3px;
+    background-color: #53da3f;
+    width: 300px;
+    margin: 35px 0;
+}
+
+
+
 
 
 
