@@ -75,6 +75,7 @@ table {
     line-height: 19px;
     color: #FFFFFF;
     text-decoration: none;
+    white-space: nowrap;
 }
 
 
