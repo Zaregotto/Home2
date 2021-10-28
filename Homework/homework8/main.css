@@ -50,7 +50,7 @@ table {
 
 .header {
     height: 100vh;
-    background: url("") no-repeat center/cover;
+    background: url("image/bg.png") no-repeat center/cover;
 }
 
 .nav__item img {
