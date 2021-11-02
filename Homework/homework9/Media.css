@@ -1,0 +1,28 @@
+@media screen and (max-width: 1650px) {
+
+
+    .btn_3 {
+        display: none;
+    }
+    .header__2 {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+}
+
+
+@media screen and (min-width: 1650px) {
+    .btn_none1 {
+        display: none;
+    }
+
+
+}
+@media screen and (max-width: 770px){
+    .header__2 {
+        justify-content: flex-start;
+    }
+
+}
