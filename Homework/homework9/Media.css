@@ -426,9 +426,6 @@
         width: 50%;
     }
 
-    .col-width {
-        width: 50%;
-    }
 
     .Logo_1 img {
         Width: 36px;
@@ -608,6 +605,11 @@
         font-size: 12px;
         line-height: 14px;
     }
-
+    .Logo_1 {
+        width: 50%;
+    }
+    .col_width {
+        width: 50%;
+    }
 }
 
