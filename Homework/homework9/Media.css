@@ -4,6 +4,7 @@
     .btn_3 {
         display: none;
     }
+
     .header__2 {
         width: 100%;
         display: flex;
@@ -14,15 +15,599 @@
 
 
 @media screen and (min-width: 1650px) {
+
     .btn_none1 {
         display: none;
     }
 
 
 }
-@media screen and (max-width: 770px){
-    .header__2 {
+
+@media screen and (max-width: 770px) {
+
+
+    .logo_2 {
+        width: 100%;
+    }
+
+    .logo_3 {
+        width: 100%;
         justify-content: flex-start;
     }
 
+    .container {
+        margin: 0 0;
+        padding: 0;
+    }
+
+    .logo_3 img {
+        margin-left: 15px;
+    }
+
+    .logo_5 {
+        margin-top: 20px;
+    }
+
+    .header-container {
+        margin-left: 5%;
+    }
+
+    .navbar-brand {
+        display: none;
+    }
+
+    .navbar {
+        display: none;
+    }
+
+    .lg1 {
+        display: none;
+    }
+
+    .a {
+        width: 32%;
+    }
+
+    .box {
+        height: 255px;
+        width: 96%;
+        margin-top: 30px;
+        display: flex;
+        column-gap: 10px;
+    }
+
+    .carousel-control-prev-icon, .carousel-control-next-icon {
+        display: none;
+    }
+
+    .carousel-inner {
+        height: 100%;
+    }
+
+    .w-100 {
+        height: 444px;
+    }
+
+    .carousel-caption {
+        position: absolute;
+        right: 15%;
+        bottom: 1.25rem;
+        left: 2%;
+        padding-top: 1.25rem;
+        padding-bottom: 1.25rem;
+        color: #fff;
+        text-align: center;
+    }
+
+    .carousel_text {
+        height: 90%;
+    }
+
+    .carousel_text img {
+        height: 45%;
+        width: 50%;
+        margin-left: 14%;
+    }
+
+    .carousel_text h5 {
+        font-size: 25px;
+        line-height: 13px;
+        white-space: nowrap;
+    }
+
+    .carousel_text p {
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+    .d6 {
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        margin-top: 0;
+    }
+
+    .carousel_text h4 {
+        font-size: 27px;
+        line-height: 27px;
+    }
+
+    .carousel_text h6 {
+        font-size: 17px;
+        line-height: 17px;
+    }
+
+    .dd_1 img {
+        height: 40%;
+        width: 15%;
+    }
+
+    .carousel_text button {
+        justify-content: flex-start;
+    }
+
+    .b h1 {
+        font-size: 12px;
+        line-height: 10px;
+    }
+
+    .c h1 {
+        font-size: 12px;
+        line-height: 10px;
+    }
+
+    .img-1 img {
+        width: 100%;
+    }
+
+    .content_1 p {
+        font-size: 11px;
+        line-height: 5px;
+    }
+
+    .content_2 p {
+        font-size: 11px;
+        line-height: 5px;
+    }
+
+    .d_3 {
+        align-items: flex-start;
+    }
+
+    .a h2 {
+        white-space: nowrap;
+        font-size: 13px;
+        line-height: 25px;
+    }
+
+    .a h3 {
+        margin-top: 0;
+        white-space: nowrap;
+        font-size: 10px;
+        line-height: 24px;
+    }
+
+    .a button {
+        margin-left: 23px;
+        width: 23%;
+        height: 20%;
+    }
+
+    .dd_a {
+        width: 40%;
+        height: 130px;
+    }
+
+    .dd_a h1 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .dd_a p {
+        font-size: 7px;
+        line-height: 10px;
+    }
+
+    .dd_a img {
+        width: 90px;
+        margin-right: 10px;
+    }
+
+    .dd_a button {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .back_bord1 {
+        width: 97%;
+    }
+    .back_bord2 {
+        width: 97%;
+    }
+    .w_1 {
+        width: 75%;
+    }
+    .nav {
+        flex-wrap: nowrap;
+    }
+    .col-3 a {
+        white-space: nowrap;
+    }
+    .d1 {
+        font-size: 16px;
+        line-height: 17px;
+    }
+
+    .block_card {
+        width: 32%;
+    }
+    hr {
+        display: none;
+    }
+
+    .c_1 h1 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .image__1 {
+        height: 226px;
+    }
+    .image__1 img {
+        width: 240px;
+    }
+    .image2 {
+        height: 222px;
+    }
+    .image2 img {
+        width: 240px;
+    }
+    .image3 {
+        height: 236px;
+    }
+    .image3 img {
+        width: 240px;
+    }
+
+    .image4 img {
+        width: 218px;
+        height: 236px;
+    }
+
+    .image5 img {
+        width: 235px;
+        height: 226px;
+    }
+    .image6 img {
+        width: 245px;
+        height: 222px;
+    }
+
+
+    .image7 img {
+        width: 240px;
+        height: 223px;
+    }
+    .image8 img {
+        height: 222px;
+        width: 225px;
+    }
+    .image9 img {
+        height: 209px;
+        width: 235px;
+    }
+
+    .aa5 {
+        display: none;
+    }
+
+    .interface {
+        display: none;
+    }
+    .aa4 {
+        left: 67.7%;
+    }
+    .aa3 {
+        left: 37.3%;
+    }
+    .b_b {
+        font-size: 12px;
+        line-height: 16px;
+        width: 30%;
+        margin-top: 10%;
+    }
+    .first_end1_1 {
+        flex-wrap: wrap;
+        column-gap: 5%;
+    }
+
+    .b_b h6 {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .icons {
+        justify-content: flex-start;
+    }
+
+
+
+
 }
+
+@media screen and (min-width: 770px) {
+    .navbar-brand1 {
+        display: none;
+    }
+    .card_2 {
+        display: none;
+    }
+
+    .navbar_1 {
+        display: none;
+    }
+
+    .lg11 {
+        display: none;
+    }
+
+}
+
+@media screen and (min-width: 331px) {
+    .navbar_12 {
+        display: none;
+    }
+    .card1 {
+        display: none;
+    }
+    .interface_1 {
+        display: none;
+    }
+    .phone_version {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 331px) {
+    .aa2 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .b_b h6 {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .first_end1_1 p {
+        margin-top: 3%;}
+
+    .b_b {
+        width: 100%;
+
+    }
+    .aa2 {
+        position: initial;
+    }
+    .phone_end {
+        justify-content: center;
+        background-color: black;
+        border-radius: 4px;
+        display: flex;
+        width: 69px;
+        height: 16px;
+        align-items: center;
+    }
+    .phone_end p {
+        margin-bottom: 0;
+        text-decoration: none;
+        font-size: 10px;
+        line-height: 12px;
+        color: #FFFFFF;
+    }
+
+    .first_end_img {
+        display: none;
+    }
+
+    .w_1 {
+        width: 100%;
+    }
+   .back_bord2 {
+       width: 86%;
+    }
+   .col-6 {
+       width: 70%;
+   }
+   .col-2 {
+       width: 22%;
+   }
+    .Media_1 {
+        display: none;
+    }
+
+    .media_container {
+        width: 50%;
+    }
+
+    .col-width {
+        width: 50%;
+    }
+
+    .Logo_1 img {
+        Width: 36px;
+        Height: 40px;
+    }
+
+    .Logo_1 h1 {
+        line-height: 10px;
+        margin-top: 40px;
+        font-size: 16px;
+    }
+
+    .Logo_1 p {
+        font-size: 6px;
+        line-height: 8px;
+    }
+
+    .Logo_1 {
+        margin-left: 10px;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .logo_5 h2 {
+        font-size: 12px;
+        line-height: 10px;
+    }
+
+    .media_container {
+        margin-right: 10px;
+        justify-content: flex-end;
+    }
+
+    .logo_4 {
+        Height: 18px;
+        width: 132px;
+    }
+
+    .logo_4 p {
+        font-size: 9px;
+    }
+
+    .logo_5 {
+        margin-top: 0;
+    }
+
+    .logo__1 {
+        margin: -33px 0;
+    }
+
+    .navbar_1 {
+        display: none;
+    }
+
+    .lg11 {
+        display: none;
+    }
+
+    .a {
+    }
+
+    .box {
+        height: 230px;
+        width: 86%;
+        flex-wrap: wrap;
+    }
+
+    .carousel {
+        width: 100%;
+    }
+
+    .carousel_text h5 {
+        font-size: 16px;
+        line-height: 0;
+    }
+
+    .nav__1 {
+        height: 60px;
+    }
+
+    .carousel_text {
+        height: 95%;
+    }
+
+    .carousel_text p {
+        font-size: 12px;
+        line-height: 20px;
+        margin-left: 5%;
+    }
+
+    .carousel_text h6 {
+        font-size: 14px;
+        line-height: 5px;
+    }
+
+    .carousel_text h4 {
+        font-size: 23px;
+        line-height: 22px;
+    }
+
+    .carousel_text button {
+        font-size: 14px;
+        width: 140px;
+    }
+
+    .carousel_text img {
+        height: 26%;
+        width: 43%;
+        margin-left: 8%;
+    }
+
+    .dd_1 img {
+        height: 40%;
+        width: 15%;
+    }
+
+    .carousel {
+        height: 85%;
+    }
+
+    .a {
+        flex-direction: row;
+        width: 50%;
+        column-gap: 10px;
+        margin-top: 4%;
+    }
+
+    .c {
+        height: 100%;
+    }
+
+    .b {
+        height: 100%;
+        width: 205px;
+    }
+
+    .content_1 {
+        width: 205px;
+    }
+
+    .back_bord {
+        justify-content: flex-end;
+        margin-top: 35%;
+    }
+    .dd_a {
+        width: 60%;
+    }
+    .back_bord1 {
+        width: 93%;
+    }
+
+    .card2 {
+        display: none;
+    }
+    .cnt {
+        box-shadow: inset 6px 3px 8px 0 rgb(0 0 0 / 15%);
+    }
+    .c_1 h1 {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .c_2 {
+        margin-top: 15%;
+    }
+    .c_3 button {
+        width: 110px;
+        height: 35px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    .section_header {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .footer_section {
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+}
+
